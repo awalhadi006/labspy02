@@ -2,7 +2,7 @@ a = int(input("Masukkan bilangan a: "))
 b = int(input("Masukkan bilangan b: "))
 c = int(input("Masukkan bilangan c: "))
 
-if a > c and a > b:
+if a > b and a > c:
     print("Bilangan terbesar adalah bilangan a =",a)
 elif b > a and b > c:
     print("Bilangan terbesar adalah bilangan b =",b)
