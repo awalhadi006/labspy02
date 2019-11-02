@@ -46,3 +46,7 @@ Jika nilai <b>b</b> yang terbesar : </br>
 
 Jika nilai <b>c</b> yang terbesar : </br>
 ![Bila c yang terbesar](https://user-images.githubusercontent.com/24362384/67976351-82929480-fc48-11e9-8bf5-606ab75c710e.PNG)
+
+<h3> Flowchart </h3>
+
+![0001](https://user-images.githubusercontent.com/24362384/68066912-0dbb7980-fd72-11e9-9bbe-396f1d832dbc.jpg)
