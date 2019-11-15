@@ -51,3 +51,5 @@ Jika nilai <b>c</b> yang terbesar : </br>
 
 ![Flowchart_page-0001](https://user-images.githubusercontent.com/24362384/68922377-05216500-07ae-11ea-8988-349f91cab7c7.jpg)
 
+<p>Kurang lebihnya mohon maaf.</br>
+Sekian dan Terima Kasih.</p>
